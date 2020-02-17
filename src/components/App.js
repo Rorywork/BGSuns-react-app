@@ -1,5 +1,6 @@
 import React from "react";
 import youtube from "../apis/youtube.js";
+import VideoList from "./VideoList.js";
 
 // import axios from "axios";
 // const KEY = "AIzaSyCLlO3WtgA0Yfl24chDEn8PEu41musEaOk";
@@ -8,18 +9,8 @@ import youtube from "../apis/youtube.js";
 class App extends React.Component {
   state = { videos: [] };
 
-  //   getRequest = async term => {
-  //     const response = await youtube.get("/search", {
-  //       params: {
-  //         q: term
-  //       }
-  //     });
-
-  //     this.setState({ videos: response.data.items });
-  //   };
-
-  getRequest = () => {
-    const response = youtube.get("/search", {
+  componentDidMount = async () => {
+    const response = await youtube.get("/search", {
       params: {
         channelId: "UCj8XvQLPxMey8LRa3mzE_1g",
         type: "video",
@@ -37,7 +28,7 @@ class App extends React.Component {
     return (
       <div>
         <h1>This is my App</h1>
-        <button onClick={this.getRequest}>API Call</button>
+        <VideoList />
       </div>
     );
   }
