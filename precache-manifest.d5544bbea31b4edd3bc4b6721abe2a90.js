@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a66bc0475e0d297a37e7ea07188ea42b",
+    "revision": "a1ae10b615efccf16e27e84d0ee24ca2",
     "url": "/BGSuns-react-app/index.html"
   },
   {
-    "revision": "875962be71dbf74ebc59",
-    "url": "/BGSuns-react-app/static/css/main.d2618fd7.chunk.css"
+    "revision": "3df901b1d6a79f7a2f06",
+    "url": "/BGSuns-react-app/static/css/main.ca1a9e33.chunk.css"
   },
   {
     "revision": "aea12c9cfd8cbb127b39",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BGSuns-react-app/static/js/2.12e18fb6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "875962be71dbf74ebc59",
-    "url": "/BGSuns-react-app/static/js/main.7535b9cb.chunk.js"
+    "revision": "3df901b1d6a79f7a2f06",
+    "url": "/BGSuns-react-app/static/js/main.4a0b5614.chunk.js"
   },
   {
     "revision": "cd654ba065e3e6ed9631",
