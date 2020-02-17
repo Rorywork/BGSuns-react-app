@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BGSuns-react-app/static/css/main.73c1e589.chunk.css",
+    "main.css": "/BGSuns-react-app/static/css/main.718bd870.chunk.css",
     "main.js": "/BGSuns-react-app/static/js/main.24845325.chunk.js",
     "main.js.map": "/BGSuns-react-app/static/js/main.24845325.chunk.js.map",
     "runtime-main.js": "/BGSuns-react-app/static/js/runtime-main.9713ae37.js",
@@ -8,15 +8,15 @@
     "static/js/2.12e18fb6.chunk.js": "/BGSuns-react-app/static/js/2.12e18fb6.chunk.js",
     "static/js/2.12e18fb6.chunk.js.map": "/BGSuns-react-app/static/js/2.12e18fb6.chunk.js.map",
     "index.html": "/BGSuns-react-app/index.html",
-    "precache-manifest.2b55481903e595bb65b4754acea5098c.js": "/BGSuns-react-app/precache-manifest.2b55481903e595bb65b4754acea5098c.js",
+    "precache-manifest.8566bc83eec028333c0b6239ea7cda46.js": "/BGSuns-react-app/precache-manifest.8566bc83eec028333c0b6239ea7cda46.js",
     "service-worker.js": "/BGSuns-react-app/service-worker.js",
-    "static/css/main.73c1e589.chunk.css.map": "/BGSuns-react-app/static/css/main.73c1e589.chunk.css.map",
+    "static/css/main.718bd870.chunk.css.map": "/BGSuns-react-app/static/css/main.718bd870.chunk.css.map",
     "static/js/2.12e18fb6.chunk.js.LICENSE.txt": "/BGSuns-react-app/static/js/2.12e18fb6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9713ae37.js",
     "static/js/2.12e18fb6.chunk.js",
-    "static/css/main.73c1e589.chunk.css",
+    "static/css/main.718bd870.chunk.css",
     "static/js/main.24845325.chunk.js"
   ]
 }
